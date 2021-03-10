@@ -1,0 +1,3 @@
+int get_number(string a)
+{ return a.size();
+}

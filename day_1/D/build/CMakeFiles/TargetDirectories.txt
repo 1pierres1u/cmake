@@ -1,0 +1,4 @@
+C:/Users/Socrasthy/Desktop/test/mastering_cmake/D/build/CMakeFiles/myLib.dir
+C:/Users/Socrasthy/Desktop/test/mastering_cmake/D/build/CMakeFiles/edit_cache.dir
+C:/Users/Socrasthy/Desktop/test/mastering_cmake/D/build/CMakeFiles/number.dir
+C:/Users/Socrasthy/Desktop/test/mastering_cmake/D/build/CMakeFiles/rebuild_cache.dir

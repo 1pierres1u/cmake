@@ -1,0 +1,3 @@
+C:/Users/Socrasthy/Desktop/test/mastering_cmake/B/build/CMakeFiles/hello.dir
+C:/Users/Socrasthy/Desktop/test/mastering_cmake/B/build/CMakeFiles/edit_cache.dir
+C:/Users/Socrasthy/Desktop/test/mastering_cmake/B/build/CMakeFiles/rebuild_cache.dir

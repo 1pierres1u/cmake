@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../a/b/b.h
+
+../c/c.h
+
+C:/Users/Socrasthy/Desktop/test/mastering_cmake/C/a.cpp
+iostream
+-
+b.h
+C:/Users/Socrasthy/Desktop/test/mastering_cmake/C/b.h
+c.h
+C:/Users/Socrasthy/Desktop/test/mastering_cmake/C/c.h
+

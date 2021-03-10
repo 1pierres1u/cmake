@@ -1,0 +1,53 @@
+The system is: Windows - 10.0.17763 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/cygwin64/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.exe"
+
+The C compiler identification is GNU, found in "C:/Users/Socrasthy/Desktop/test/mastering_cmake/B/build/CMakeFiles/3.19.1/CompilerIdC/a.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/cygwin64/bin/g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.exe"
+
+The CXX compiler identification is GNU, found in "C:/Users/Socrasthy/Desktop/test/mastering_cmake/B/build/CMakeFiles/3.19.1/CompilerIdCXX/a.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: C:/Users/Socrasthy/Desktop/test/mastering_cmake/B/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_fe00f\fast && 	nmake  -f CMakeFiles\cmTC_fe00f.dir\build.make /nologo -L                  CMakeFiles\cmTC_fe00f.dir\build
+Building C object CMakeFiles/cmTC_fe00f.dir/testCCompiler.c.obj
+	C:\cygwin64\bin\gcc.exe    -o CMakeFiles\cmTC_fe00f.dir\testCCompiler.c.obj -c C:\Users\Socrasthy\Desktop\test\mastering_cmake\B\build\CMakeFiles\CMakeTmp\testCCompiler.c
+Linking C executable cmTC_fe00f.exe
+	"C:\Program Files (x86)\CMake\bin\cmake.exe" -E rm -f CMakeFiles\cmTC_fe00f.dir/objects.a
+	C:\cygwin64\bin\ar.exe cr CMakeFiles\cmTC_fe00f.dir/objects.a @CMakeFiles\cmTC_fe00f.dir\objects1.rsp
+	C:\cygwin64\bin\gcc.exe -Wl,--whole-archive CMakeFiles\cmTC_fe00f.dir/objects.a -Wl,--no-whole-archive -o cmTC_fe00f.exe -Wl,--out-implib,libcmTC_fe00f.dll.a -Wl,--major-image-version,0,--minor-image-version,0
+
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: C:/Users/Socrasthy/Desktop/test/mastering_cmake/B/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_a7203\fast && 	nmake  -f CMakeFiles\cmTC_a7203.dir\build.make /nologo -L                  CMakeFiles\cmTC_a7203.dir\build
+Building CXX object CMakeFiles/cmTC_a7203.dir/testCXXCompiler.cxx.o
+	C:\cygwin64\bin\g++.exe    -o CMakeFiles\cmTC_a7203.dir\testCXXCompiler.cxx.o -c C:\Users\Socrasthy\Desktop\test\mastering_cmake\B\build\CMakeFiles\CMakeTmp\testCXXCompiler.cxx
+Linking CXX executable cmTC_a7203.exe
+	"C:\Program Files (x86)\CMake\bin\cmake.exe" -E rm -f CMakeFiles\cmTC_a7203.dir/objects.a
+	C:\cygwin64\bin\ar.exe cr CMakeFiles\cmTC_a7203.dir/objects.a @CMakeFiles\cmTC_a7203.dir\objects1.rsp
+	C:\cygwin64\bin\g++.exe -Wl,--whole-archive CMakeFiles\cmTC_a7203.dir/objects.a -Wl,--no-whole-archive -o cmTC_a7203.exe -Wl,--out-implib,libcmTC_a7203.dll.a -Wl,--major-image-version,0,--minor-image-version,0
+
+
+

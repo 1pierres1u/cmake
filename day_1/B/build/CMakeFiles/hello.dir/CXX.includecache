@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Socrasthy/Desktop/test/mastering_cmake/B/a.cpp
+iostream
+-
+b.h
+C:/Users/Socrasthy/Desktop/test/mastering_cmake/B/b.h
+
+C:/Users/Socrasthy/Desktop/test/mastering_cmake/B/b.h
+
